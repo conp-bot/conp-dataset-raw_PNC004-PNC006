@@ -1,0 +1,73 @@
+{
+    "title": "raw_PNC004-PNC006",
+    "creators": [
+        {
+            "name": "Donna Gift Cabalo"
+        }
+    ],
+    "description": "",
+    "version": "2024-08-06T17:35:16.026047",
+    "licenses": [
+        {
+            "name": "CC0 1.0 Universal"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2024-06-17 22:45:02",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2024-08-06 17:35:16",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 37.0,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/458gp/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "9"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
